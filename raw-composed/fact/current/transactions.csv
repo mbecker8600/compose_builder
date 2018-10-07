@@ -1,0 +1,8 @@
+txn_id,participant_name,fund,amount,transaction_date
+1,joe smith,VTI,75,2005-10-15
+2,jane adams,VTI,35,2001-03-01
+3,amy williams,BND,10,2010-01-30
+4,michael brown,VTI,200,1999-08-06
+5,andrew johnson,BND,17,1992-06-12
+10,jane adams,VTI,35,2018-10-01
+11,amy williams,BND,10,2018-10-01

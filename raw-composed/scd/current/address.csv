@@ -1,0 +1,7 @@
+address_key,first_name,last_name,street,city,state,last_updated
+1,joe,smith,7 market street,portland,or,2018-10-01
+2,jane,adams,35 park avenue,new york,ny,2001-03-01
+3,amy,williams,1 water street,seattle,wa,2018-10-01
+4,michael,brown,200 embarcadaro street,san fransciso,ca,1999-08-06
+5,andrew,johnson,17 michigan avenue,chicago,il,1992-06-12
+10,bill,smith,3 main street,houston,tx,2018-10-01

@@ -1,0 +1,4 @@
+address_key,first_name,last_name,street,city,state,last_updated
+1,joe,smith,7 market street,portland,or,10-1-2018
+3,amy,williams,1 water street,seattle,wa,10-1-2018
+10,bill,smith,3 main street,houston,tx,10-1-2018

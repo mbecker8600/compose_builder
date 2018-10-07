@@ -1,0 +1,9 @@
+address_sk,address_key,first_name,last_name,street,city,state,last_updated,effective_start,effective_end
+0fecf108-ca7d-11e8-bcad-a45e60f3cd17,1,joe,smith,100 main street,charlotte,nc,2005-10-15,2005-10-15,2018-09-30
+0fee25c8-ca7d-11e8-9d9f-a45e60f3cd17,2,jane,adams,35 park avenue,new york,ny,2001-03-01,2001-03-01,
+0fee26ae-ca7d-11e8-954e-a45e60f3cd17,3,amy,williams,10 5th street,austin,tx,2010-01-30,2010-01-30,2018-09-30
+0fee26e8-ca7d-11e8-ba4f-a45e60f3cd17,4,michael,brown,200 embarcadaro street,san fransciso,ca,1999-08-06,1999-08-06,
+0fee271c-ca7d-11e8-86ba-a45e60f3cd17,5,andrew,johnson,17 michigan avenue,chicago,il,1992-06-12,1992-06-12,
+0ff3917a-ca7d-11e8-95ee-a45e60f3cd17,1,joe,smith,7 market street,portland,or,2018-10-01,2018-10-01,
+0ff3922e-ca7d-11e8-bd8f-a45e60f3cd17,3,amy,williams,1 water street,seattle,wa,2018-10-01,2018-10-01,
+0ffa2e68-ca7d-11e8-8ff9-a45e60f3cd17,10,bill,smith,3 main street,houston,tx,2018-10-01,2018-10-01,
